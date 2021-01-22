@@ -8,7 +8,7 @@ Kenntnisse in: C++ / SQL / Typescript / HTML / CSS
 
 Derzeit arbeite ich an folgenden Projekten: 
 
-• <t> Bachelorprojekt
+• ´Bachelorarbeit´
 
 
 [Meine Website](https://github.com/lenlan002/lenlan002/edit/main/README.md)
