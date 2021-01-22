@@ -8,11 +8,11 @@ Kenntnisse in: C++ / SQL / Typescript / HTML / CSS
 
 Derzeit arbeite ich an folgenden Projekten: 
 
-📚 ABC
+👉🏼 ABC
 
-📚 DEF
+👉🏼 DEF
 
-📚 GHI
+👉🏼 GHI
 
 [link]()
 
