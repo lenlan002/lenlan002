@@ -1,12 +1,18 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### About me
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+🌌 Willkommen auf meinem GitHub Portfolio 🌌
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Auf diesem Profil zeige ich ein paar meiner im Studium und selbsterlernten IT Fähigkeiten
 
-- 🔭 I’m currently working on this page. 
+Kenntnisse in: C++ / SQL / Typescript / HTML / CSS
+
+Derzeit arbeite ich an folgenden Projekten: 
+
+📚 A
+
+📚 B
+
+📚 C
 
 
 
