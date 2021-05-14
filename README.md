@@ -1,7 +1,4 @@
-#### About me:
-
-Hello
-
+#### Hello fellow devs
 
 
 
